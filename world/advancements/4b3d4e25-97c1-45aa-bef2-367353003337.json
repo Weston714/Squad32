@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2020-11-29 11:12:45 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-11-28 19:56:28 -0600"
@@ -496,6 +502,7 @@
       "minecraft:jungle_hills": "2020-11-28 22:55:05 -0600",
       "minecraft:beach": "2020-11-28 22:55:03 -0600",
       "minecraft:river": "2020-11-28 19:35:15 -0600",
+      "minecraft:birch_forest_hills": "2020-11-29 11:16:11 -0600",
       "minecraft:wooded_mountains": "2020-11-28 19:36:35 -0600",
       "minecraft:wooded_hills": "2020-11-28 22:24:44 -0600",
       "minecraft:swamp": "2020-11-28 19:35:16 -0600",
@@ -513,6 +520,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2020-11-28 19:56:34 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2020-11-29 11:12:45 -0600"
     },
     "done": true
   },
