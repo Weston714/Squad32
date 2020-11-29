@@ -1,0 +1,240 @@
+[21:11:46] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:11:47] [main/INFO]: Reloading ResourceManager: Default, bukkit, ShulkerRespawn.zip, double-shulker-shells-1536188803.zip
+[21:11:48] [Worker-Main-12/INFO]: Loaded 7 recipes
+[21:11:48] [Worker-Main-12/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[21:11:52] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:11:52] [main/FATAL]: Failed to start the minecraft server
+java.io.IOExcepti[21:11:53] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-37d799b-3eb7236 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[21:11:53] [Server thread/INFO]: Debug logging is disabled
+[21:11:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:11:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:11:53] [Server thread/INFO]: Default game type: SURVIVAL
+[21:11:53] [Server thread/INFO]: Generating keypair
+[21:11:53] [Server thread/INFO]: Starting Minecraft server on 192.168.1.112:32
+[21:11:53] [Server thread/INFO]: Using default channel type
+[21:11:54] [Server thread/INFO]: Preparing level "world"
+[21:11:54] [Server thread/INFO]: -------- World Settings For [world] --------
+[21:11:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:11:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:11:54] [Server thread/INFO]: View Distance: 10
+[21:11:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:11:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:11:54] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[21:11:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:11:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:11:54] [Server thread/INFO]: Mob Spawn Range: 6
+[21:11:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[21:11:54] [Server thread/INFO]: Max TNT Explosions: 100
+[21:11:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:11:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:11:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:11:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[21:11:54] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[21:11:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:11:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:11:54] [Server thread/INFO]: View Distance: 10
+[21:11:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:11:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:11:54] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[21:11:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:11:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:11:54] [Server thread/INFO]: Mob Spawn Range: 6
+[21:11:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[21:11:54] [Server thread/INFO]: Max TNT Explosions: 100
+[21:11:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:11:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:11:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:11:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[21:11:54] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[21:11:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:11:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:11:54] [Server thread/INFO]: View Distance: 10
+[21:11:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:11:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:11:54] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[21:11:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:11:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:11:54] [Server thread/INFO]: Mob Spawn Range: 6
+[21:11:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:11:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[21:11:54] [Server thread/INFO]: Max TNT Explosions: 100
+[21:11:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:11:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:11:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:11:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[21:11:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:05] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:06] [Server thread/INFO]: Time elapsed: 11469 ms
+[21:12:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:12:09] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:09] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:09] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:09] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:09] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:09] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:09] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:09] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:10] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[21:12:10] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[21:12:11] [Worker-Main-11/INFO]: Preparing spawn area: 88%
+[21:12:11] [Worker-Main-13/INFO]: Preparing spawn area: 99%
+[21:12:11] [Server thread/INFO]: Time elapsed: 5538 ms
+[21:12:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:12:12] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:12] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:12] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:13] [Worker-Main-10/INFO]: Preparing spawn area: 94%
+[21:12:13] [Server thread/INFO]: Time elapsed: 1539 ms
+[21:12:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:12:13] [Server thread/INFO]: Done (19.032s)! For help, type "help"
+[21:20:21] [User Authenticator #1/INFO]: UUID of player BrenTheGoat is 99db20e0-c87f-4bf9-9fab-47d32962483a
+[21:20:22] [Server thread/INFO]: BrenTheGoat[/68.229.145.237:60662] logged in with entity id 135 at ([world]155.19503253852778, 105.5, -296.3231360467538)
+[21:20:57] [Server thread/INFO]: BrenTheGoat lost connection: Disconnected
+[21:20:57] [Server thread/INFO]: BrenTheGoat left the game
+[21:26:20] [User Authenticator #2/INFO]: UUID of player Messier16 is 402f8470-416b-41e9-8450-d7e85a196826
+[21:26:21] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:bee_nest
+[21:26:21] [Server thread/INFO]: Messier16[/76.27.34.152:59905] logged in with entity id 303 at ([world]375.35945169594777, 67.15912762110217, 572.1347820588677)
+[21:35:28] [User Authenticator #3/INFO]: UUID of player Weston714 is 0072df83-97e5-4e79-920c-c19f744bb993
+[21:35:29] [Server thread/INFO]: Weston714[/192.168.1.1:52561] logged in with entity id 984 at ([world]129.24101288942413, 149.96051748036754, -221.2204415391519)
+[21:35:42] [Async Chat Thread - #0/INFO]: <Weston714> is the game lagging
+[21:35:47] [Server thread/INFO]: Weston714 issued server command: /op Messier16
+[21:35:47] [Server thread/INFO]: [Weston714: Made Messier16 a server operator]
+[21:35:52] [Server thread/INFO]: Messier16 issued server command: /gamemode creative
+[21:35:52] [Server thread/INFO]: [Messier16: Set own game mode to Creative Mode]
+[21:35:56] [Async Chat Thread - #0/INFO]: <Messier16> got it
+[21:36:00] [Async Chat Thread - #0/INFO]: <Messier16> not any lag atm
+[21:36:06] [Server thread/INFO]: Weston714 issued server command: /tp Messier16
+[21:36:06] [Server thread/INFO]: [Weston714: Teleported Weston714 to Messier16]
+[21:36:06] [Server thread/WARN]: Weston714 moved too quickly! 12.82560349857124,-65.3738082242418,-66.35399794758337
+[21:36:12] [Async Chat Thread - #0/INFO]: <Weston714> cool
+[21:36:27] [Async Chat Thread - #0/INFO]: <Weston714> the server is running off of a shit hdd so it is suprising that there is no lag
+[21:38:02] [Server thread/INFO]: Weston714 issued server command: /tp Messier16
+[21:38:02] [Server thread/INFO]: [Weston714: Teleported Weston714 to Messier16]
+[21:38:02] [Server thread/WARN]: Weston714 moved too quickly! 7.847772463149312,-1.8860451428910636,-20.455282464632376
+[21:38:13] [Server thread/INFO]: Weston714 lost connection: Disconnected
+[21:38:13] [Server thread/INFO]: Weston714 left the game
+[21:40:17] [Server thread/INFO]: Messier16 issued server command: /give @p minecraft:player_head 1
+[21:40:17] [Server thread/INFO]: [Messier16: Gave 1 [Player Head] to Messier16]
+[21:41:22] [Server thread/INFO]: Messier16 issued server command: /give @p minecraft:player_head 1 {skullowner: "spacetradertater"}
+[21:41:37] [Server thread/INFO]: Messier16 issued server command: /give @p minecraft:player_head 1 {skullowner:"spacetradertater"}
+[21:41:47] [Server thread/INFO]: Messier16 issued server command: /give @p minecraft:player_head 1 {SkullOwner:"spacetradertater"}
+[21:42:10] [Server thread/INFO]: Messier16 lost connection: Disconnected
+[21:42:10] [Server thread/INFO]: Messier16 left the game
+[21:44:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 133752ms or 2675 ticks behind
+[21:45:52] [User Authenticator #4/INFO]: UUID of player Messier16 is 402f8470-416b-41e9-8450-d7e85a196826
+[21:45:52] [Server thread/INFO]: Messier16[/76.27.34.152:60309] logged in with entity id 989 at ([world]154.25528738556991, 82.0, -292.49932787527894)
+[21:45:56] [Async Chat Thread - #1/INFO]: <Messier16> ey
+[21:46:16] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[21:46:22] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[21:46:33] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[21:46:33] [Server thread/INFO]: Messier16 issued server command: /give @p minecraft:player_head{SkullOwner:"spacetradertater"} 1
+[21:46:33] [Server thread/INFO]: [Messier16: Gave 1 [spacetradertater's Head] to Messier16]
+[21:50:17] [Server thread/INFO]: Messier16 issued server command: /gamemode spectator
+[21:50:17] [Server thread/INFO]: [Messier16: Set own game mode to Spectator Mode]
+[21:54:22] [Server thread/INFO]: Messier16 issued server command: /gamemode creative
+[21:54:22] [Server thread/INFO]: [Messier16: Set own game mode to Creative Mode]
+[21:56:31] [Server thread/INFO]: Messier16 issued server command: /gamemode spectator
+[21:56:31] [Server thread/INFO]: [Messier16: Set own game mode to Spectator Mode]
+[21:58:30] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:snow_pile",config:{}}]
+[21:58:30] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:snow_pile",config:{}}]
+[21:58:30] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:snow_pile",config:{}}]
+[21:58:30] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:ice_pile",config:{}}]
+[21:58:30] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:snow_pile",config:{}}]
+[21:58:30] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:snow_pile",config:{}}]
+[21:58:30] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:spruce_tree",config:{}}]
+[21:58:30] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:snow_pile",config:{}}]
+[21:58:30] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:snow_pile",config:{}}]
+[21:58:30] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:normal_tree",config:{}}]
+[21:58:30] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:spruce_tree",config:{}}]
+[21:58:36] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:snow_pile",config:{}}]
+[21:58:36] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:snow_pile",config:{}}]
+[21:58:36] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:ice_pile",config:{}}]
+[21:58:36] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:ice_pile",config:{}}]
+[21:58:36] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:snow_pile",config:{}}]
+[21:58:36] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:spruce_tree",config:{}}]
+[21:58:36] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:ice_pile",config:{}}]
+[21:58:36] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:spruce_tree",config:{}}]
+[21:58:36] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:snow_pile",config:{}}]
+[21:58:37] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:spruce_tree",config:{}}]
+[21:58:50] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[21:58:50] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[21:58:50] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[21:59:00] [Server thread/INFO]: Messier16 issued server command: /gamemode creative
+[21:59:00] [Server thread/INFO]: [Messier16: Set own game mode to Creative Mode]
+[21:59:02] [Server thread/WARN]: Messier16 moved too quickly! 1585.2771224516894,20.21575361417719,1859.8574914433905
+[21:59:02] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[21:59:02] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[21:59:14] [Server thread/INFO]: Messier16 issued server command: /gamerule keepInventory true
+[21:59:14] [Server thread/INFO]: [Messier16: Gamerule keepInventory is now set to: true]
+[21:59:24] [Server thread/INFO]: Messier16 fell out of the world
+[22:00:32] [Server thread/INFO]: Messier16 lost connection: Disconnected
+[22:00:32] [Server thread/INFO]: Messier16 left the game

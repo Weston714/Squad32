@@ -1,0 +1,1 @@
+java -Xms8G -Xmx8G -XX:+UseConcMarkSweepGC -jar spigot-1.16.4.jar
