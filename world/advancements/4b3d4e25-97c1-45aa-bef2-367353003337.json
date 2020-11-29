@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-11-28 22:48:42 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-11-28 19:51:33 -0600"
@@ -122,6 +128,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2020-11-28 21:40:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2020-11-28 22:30:03 -0600"
     },
     "done": true
   },
@@ -191,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2020-11-28 23:07:08 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-11-28 19:56:34 -0600"
@@ -200,6 +218,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2020-11-28 20:11:44 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2020-11-28 22:30:03 -0600"
     },
     "done": true
   },
@@ -326,6 +350,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2020-11-28 21:40:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2020-11-28 23:01:58 -0600"
     },
     "done": true
   },
@@ -460,10 +490,14 @@
       "minecraft:forest": "2020-11-28 19:35:25 -0600",
       "minecraft:mountains": "2020-11-28 19:36:28 -0600",
       "minecraft:taiga": "2020-11-28 19:36:46 -0600",
+      "minecraft:taiga_hills": "2020-11-28 22:30:57 -0600",
       "minecraft:jungle": "2020-11-28 19:32:29 -0600",
       "minecraft:birch_forest": "2020-11-28 21:23:43 -0600",
+      "minecraft:jungle_hills": "2020-11-28 22:55:05 -0600",
+      "minecraft:beach": "2020-11-28 22:55:03 -0600",
       "minecraft:river": "2020-11-28 19:35:15 -0600",
       "minecraft:wooded_mountains": "2020-11-28 19:36:35 -0600",
+      "minecraft:wooded_hills": "2020-11-28 22:24:44 -0600",
       "minecraft:swamp": "2020-11-28 19:35:16 -0600",
       "minecraft:savanna": "2020-11-28 19:32:15 -0600",
       "minecraft:plains": "2020-11-28 19:35:21 -0600"
@@ -662,6 +696,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-11-28 22:48:42 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2020-11-28 19:51:14 -0600"
@@ -691,6 +731,15 @@
       "has_stone": "2020-11-28 20:11:44 -0600"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2020-11-28 22:49:56 -0600",
+      "minecraft:nether_wastes": "2020-11-28 22:49:05 -0600",
+      "minecraft:soul_sand_valley": "2020-11-28 22:48:43 -0600",
+      "minecraft:basalt_deltas": "2020-11-28 22:49:04 -0600"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
@@ -740,6 +789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2020-11-28 23:01:48 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-11-28 19:51:33 -0600"
@@ -749,6 +804,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-11-28 19:56:28 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2020-11-28 23:01:48 -0600"
     },
     "done": true
   },

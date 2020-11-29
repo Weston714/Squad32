@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2020-11-28 22:37:42 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-11-10 18:17:34 -0600"
@@ -581,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2020-11-28 22:37:30 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-11-10 23:30:06 -0600"
@@ -737,6 +749,7 @@
       "minecraft:blaze": "2019-11-13 21:44:09 -0600",
       "minecraft:skeleton": "2019-11-10 17:45:19 -0600",
       "minecraft:ravager": "2019-11-30 23:10:20 -0600",
+      "minecraft:hoglin": "2020-11-28 22:56:20 -0600",
       "minecraft:vindicator": "2019-11-30 23:01:43 -0600",
       "minecraft:spider": "2019-11-11 20:51:55 -0600",
       "minecraft:creeper": "2019-11-10 17:45:47 -0600",
@@ -842,6 +855,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-11-10 23:23:35 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2020-11-28 22:37:42 -0600"
     },
     "done": true
   },
@@ -1604,6 +1623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2020-11-28 22:37:42 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/honey_bottle": {
     "criteria": {
       "has_honey_block": "2020-11-28 20:43:10 -0600"
@@ -1640,6 +1665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2020-11-28 22:42:07 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-11-10 23:30:06 -0600"
@@ -1667,6 +1698,16 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2019-11-10 23:14:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2020-11-28 22:49:41 -0600",
+      "minecraft:nether_wastes": "2020-11-28 22:48:20 -0600",
+      "minecraft:soul_sand_valley": "2020-11-28 22:47:34 -0600",
+      "minecraft:warped_forest": "2020-11-28 22:49:39 -0600",
+      "minecraft:basalt_deltas": "2020-11-28 22:48:31 -0600"
     },
     "done": true
   },
@@ -2735,6 +2776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-11-28 22:42:06 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2019-11-15 17:58:30 -0600"
@@ -3314,6 +3361,12 @@
   "minecraft:recipes/building_blocks/purpur_block": {
     "criteria": {
       "has_chorus_fruit_popped": "2019-12-23 10:47:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-11-28 22:55:20 -0600"
     },
     "done": true
   },

@@ -1993,6 +1993,14 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2020-11-28 22:48:38 -0600",
+      "minecraft:soul_sand_valley": "2020-11-28 22:48:44 -0600",
+      "minecraft:basalt_deltas": "2020-11-28 22:48:31 -0600"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2019-10-02 21:56:55 -0500"
