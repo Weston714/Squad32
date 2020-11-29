@@ -150,3 +150,36 @@
 [19:06:25] [Server thread/INFO]: Time elapsed: 166 ms
 [19:06:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
 [19:06:25] [Server thread/INFO]: Done (4.516s)! For help, type "help"
+[19:32:15] [User Authenticator #1/INFO]: UUID of player Chlckon is 4b3d4e25-97c1-45aa-bef2-367353003337
+[19:32:15] [Server thread/INFO]: Chlckon[/76.72.81.221:52439] logged in with entity id 200 at ([world]417.5, 69.0, 617.5)
+[19:34:42] [User Authenticator #2/INFO]: UUID of player Weston714 is 0072df83-97e5-4e79-920c-c19f744bb993
+[19:34:43] [Server thread/INFO]: Weston714[/192.168.1.1:52709] logged in with entity id 235 at ([world]241.50469048346557, 116.2243056946264, -214.1812140148733)
+[19:34:45] [Server thread/INFO]: Weston714 fell from a high place
+[19:34:59] [Server thread/INFO]: Weston714 issued server command: /gamemode creative Chlckon
+[19:34:59] [Server thread/INFO]: [Weston714: Set Chlckon's game mode to Creative Mode]
+[19:35:02] [Server thread/INFO]: Weston714 issued server command: /tp Chlckon
+[19:35:02] [Server thread/INFO]: [Weston714: Teleported Weston714 to Chlckon]
+[19:35:11] [Server thread/INFO]: Weston714 issued server command: /gamemode creative
+[19:35:11] [Server thread/INFO]: [Weston714: Set own game mode to Creative Mode]
+[19:35:53] [Async Chat Thread - #0/INFO]: <Chlckon> dude your house is gone[m
+[19:36:02] [Async Chat Thread - #0/INFO]: <Weston714> no its not[m
+[19:36:10] [Async Chat Thread - #0/INFO]: <Chlckon> tp to me[m
+[19:36:11] [Async Chat Thread - #0/INFO]: <Weston714> go look at the castel[m
+[19:36:55] [Async Chat Thread - #0/INFO]: <Chlckon> where is the christmas tree[m
+[19:37:32] [Server thread/INFO]: Chlckon has made the advancement [Cover Me With Diamonds]
+[19:37:48] [Server thread/INFO]: Chlckon has made the advancement [Diamonds!]
+[19:45:07] [Server thread/INFO]: Chlckon has reached the goal [Sky's the Limit]
+[19:46:27] [Async Chat Thread - #1/INFO]: <Chlckon> brb[m
+[19:46:28] [Server thread/INFO]: Chlckon lost connection: Disconnected
+[19:46:28] [Server thread/INFO]: Chlckon left the game
+[19:48:02] [User Authenticator #3/INFO]: UUID of player Chlckon is 4b3d4e25-97c1-45aa-bef2-367353003337
+[19:48:02] [Server thread/INFO]: Chlckon[/76.72.81.221:52807] logged in with entity id 779 at ([world]156.75581446926677, 85.0, -206.98055546637138)
+[19:49:15] [Async Chat Thread - #2/INFO]: <Chlckon> here we see a weston in its natural habitat[m
+[19:51:33] [Server thread/INFO]: Chlckon has made the advancement [Stone Age]
+[20:19:51] [Server thread/INFO]: Weston714 lost connection: Disconnected
+[20:19:51] [Server thread/INFO]: Weston714 left the game
+[20:20:28] [User Authenticator #4/INFO]: UUID of player Weston714 is 0072df83-97e5-4e79-920c-c19f744bb993
+[20:20:29] [Server thread/INFO]: Weston714[/192.168.1.1:56375] logged in with entity id 830 at ([world]111.47750447968207, 103.70128753424696, -200.0753513421579)
+[20:21:44] [Server thread/INFO]: Weston714 issued server command: //wand
+[20:22:18] [Server thread/INFO]: Weston714 issued server command: //copy
+[20:22:27] [Server thread/INFO]: Weston714 issued server command: //paste
