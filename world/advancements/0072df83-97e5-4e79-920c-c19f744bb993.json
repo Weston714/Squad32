@@ -185,12 +185,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2020-11-28 11:52:23 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2019-10-02 18:49:26 -0500"
@@ -361,12 +355,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2020-11-28 12:46:25 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2019-10-02 22:06:38 -0500"
@@ -382,6 +370,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2019-10-12 21:43:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2019-10-22 23:01:37 -0500"
     },
     "done": true
   },
@@ -547,12 +541,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2020-11-28 13:22:43 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2019-10-03 20:04:24 -0500"
@@ -682,7 +670,7 @@
   },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_logs": "2020-11-27 23:22:06 -0600"
+      "has_log": "2019-10-02 22:37:46 -0500"
     },
     "done": true
   },
@@ -847,20 +835,17 @@
       "minecraft:blaze": "2019-10-08 15:05:54 -0500",
       "minecraft:pillager": "2019-10-02 21:59:13 -0500",
       "minecraft:skeleton": "2019-10-02 20:52:22 -0500",
+      "minecraft:zombie_pigman": "2019-10-06 17:43:15 -0500",
       "minecraft:ravager": "2019-10-06 11:46:34 -0500",
       "minecraft:ghast": "2019-10-11 18:39:23 -0500",
       "minecraft:vindicator": "2019-10-02 22:02:53 -0500",
-      "minecraft:magma_cube": "2020-11-28 11:52:19 -0600",
       "minecraft:spider": "2019-10-02 21:20:47 -0500",
       "minecraft:creeper": "2019-10-02 21:35:35 -0500",
       "minecraft:slime": "2019-11-28 22:38:25 -0600",
       "minecraft:evoker": "2019-10-19 11:16:46 -0500",
       "minecraft:phantom": "2019-10-17 21:18:07 -0500",
-      "minecraft:zombified_piglin": "2019-10-06 17:43:15 -0500",
       "minecraft:witch": "2019-10-12 22:13:49 -0500",
-      "minecraft:wither_skeleton": "2020-11-28 11:48:09 -0600",
       "minecraft:husk": "2019-10-02 21:31:26 -0500",
-      "minecraft:ender_dragon": "2020-11-28 14:20:01 -0600",
       "minecraft:shulker": "2019-10-03 18:17:48 -0500",
       "minecraft:cave_spider": "2019-10-05 01:13:55 -0500",
       "minecraft:enderman": "2019-10-03 21:36:05 -0500",
@@ -909,12 +894,6 @@
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2019-10-06 13:38:20 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2020-11-28 12:52:48 -0600"
     },
     "done": true
   },
@@ -1042,12 +1021,6 @@
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2019-10-06 11:26:52 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_ingot": "2020-11-26 20:29:10 -0600"
     },
     "done": true
   },
@@ -1198,12 +1171,6 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2019-11-07 19:36:10 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2020-11-28 11:53:59 -0600"
     },
     "done": true
   },
@@ -1393,15 +1360,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "has_yellow_terracotta": "2019-11-30 20:01:25 -0600"
+      "has_log": "2019-10-02 22:38:04 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
-      "has_logs": "2020-11-26 20:29:10 -0600"
+      "has_yellow_terracotta": "2019-11-30 20:01:25 -0600"
     },
     "done": true
   },
@@ -1465,6 +1432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2019-10-27 15:15:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2019-10-06 13:38:20 -0500"
@@ -1519,6 +1492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2019-10-03 19:03:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2019-10-02 21:37:36 -0500"
@@ -1528,6 +1507,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2019-10-02 18:49:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_string": "2019-10-02 18:40:17 -0500"
     },
     "done": true
   },
@@ -1727,7 +1712,6 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-10-02 21:50:18 -0500",
-      "minecraft:snowy_mountains": "2020-11-27 09:48:52 -0600",
       "minecraft:forest": "2019-10-02 21:22:55 -0500",
       "minecraft:mountains": "2019-10-02 18:05:26 -0500",
       "minecraft:taiga": "2019-10-02 18:36:56 -0500",
@@ -1735,7 +1719,6 @@
       "minecraft:snowy_tundra": "2019-10-06 12:46:24 -0500",
       "minecraft:taiga_hills": "2019-10-19 22:20:07 -0500",
       "minecraft:desert": "2019-10-02 17:55:37 -0500",
-      "minecraft:frozen_river": "2020-11-27 09:48:46 -0600",
       "minecraft:deep_frozen_ocean": "2019-11-02 15:53:02 -0500",
       "minecraft:jungle": "2019-10-12 09:47:57 -0500",
       "minecraft:birch_forest": "2019-10-02 22:27:50 -0500",
@@ -1747,14 +1730,12 @@
       "minecraft:dark_forest": "2019-10-02 18:40:20 -0500",
       "minecraft:lukewarm_ocean": "2019-10-05 01:16:53 -0500",
       "minecraft:river": "2019-10-02 17:08:18 -0500",
-      "minecraft:snowy_taiga": "2020-11-27 09:49:44 -0600",
       "minecraft:birch_forest_hills": "2019-10-04 23:39:05 -0500",
       "minecraft:wooded_mountains": "2019-10-02 22:26:20 -0500",
       "minecraft:wooded_hills": "2019-10-02 21:29:48 -0500",
       "minecraft:stone_shore": "2019-10-22 22:59:40 -0500",
       "minecraft:wooded_badlands_plateau": "2019-10-09 19:41:16 -0500",
       "minecraft:swamp": "2019-10-02 18:40:06 -0500",
-      "minecraft:snowy_taiga_hills": "2020-11-27 09:51:29 -0600",
       "minecraft:savanna": "2019-10-02 17:08:00 -0500",
       "minecraft:plains": "2019-10-02 17:08:21 -0500"
     },
@@ -1814,15 +1795,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_banner": {
-    "criteria": {
-      "has_light_blue_wool": "2019-10-06 13:38:20 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_banner": {
     "criteria": {
       "has_magenta_wool": "2019-10-06 13:38:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2019-10-06 13:38:20 -0500"
     },
     "done": true
   },
@@ -2036,12 +2017,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:soul_sand_valley": "2020-11-27 23:05:04 -0600"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2019-10-02 21:56:55 -0500"
@@ -2156,12 +2131,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2020-11-28 11:56:30 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2019-10-15 05:03:42 -0500"
@@ -2216,15 +2185,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_bed": {
-    "criteria": {
-      "has_green_wool": "2019-10-06 13:38:20 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_lime_wool": "2019-10-06 13:38:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2019-10-06 13:38:20 -0500"
     },
     "done": true
   },
@@ -2861,12 +2830,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2020-11-28 12:52:48 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2019-10-02 18:31:50 -0500"
@@ -3137,12 +3100,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2020-11-28 09:51:32 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-10-02 20:48:00 -0500"
@@ -3176,12 +3133,6 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2019-10-02 18:25:40 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2020-11-28 09:51:32 -0600"
     },
     "done": true
   },
@@ -3785,12 +3736,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2020-11-28 11:53:59 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2019-11-07 19:36:10 -0600"
@@ -3818,6 +3763,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2019-10-08 15:33:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2019-10-27 15:38:55 -0500"
     },
     "done": true
   },
@@ -3851,12 +3802,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/honey_block_slide": {
-    "criteria": {
-      "honey_block_slide": "2020-11-27 23:07:01 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-10-04 23:46:11 -0500"
@@ -3866,12 +3811,6 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2019-10-02 22:01:20 -0500"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2020-11-28 11:53:59 -0600"
     },
     "done": true
   },
@@ -3920,12 +3859,6 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2019-10-02 18:31:50 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2020-11-28 12:21:20 -0600"
     },
     "done": true
   },
@@ -4146,13 +4079,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-10-03 20:04:50 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-10-03 20:04:50 -0500"
     },
@@ -4212,12 +4145,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2020-11-28 11:56:30 -0600"
-    },
-    "done": true
-  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2019-10-02 18:31:50 -0500"
@@ -4260,5 +4187,5 @@
     },
     "done": true
   },
-  "DataVersion": 2584
+  "DataVersion": 2230
 }
