@@ -125,3 +125,21 @@
 [14:42:27] [Server thread/INFO]: [Chlckon: Set own game mode to Spectator Mode]
 [14:44:50] [Server thread/INFO]: Chlckon issued server command: /gamemode creative
 [14:44:50] [Server thread/INFO]: [Chlckon: Set own game mode to Creative Mode]
+[14:47:33] [Server thread/INFO]: Chlckon issued server command: /tree
+[14:47:46] [Server thread/INFO]: Chlckon issued server command: /tool tree
+[14:48:03] [Server thread/INFO]: Chlckon issued server command: /tool tree spruce
+[14:48:17] [Server thread/INFO]: Chlckon issued server command: /tree
+[14:48:33] [Server thread/INFO]: Chlckon issued server command: //undo
+[14:48:36] [Server thread/INFO]: Chlckon issued server command: //undo
+[14:50:57] [Server thread/INFO]: Chlckon issued server command: //undo
+[15:30:49] [Server thread/INFO]: Chlckon issued server command: //wand
+[15:30:54] [Server thread/INFO]: Chlckon issued server command: //wand
+[15:31:11] [Server thread/INFO]: Chlckon issued server command: //cut
+[15:31:19] [Server thread/INFO]: Chlckon issued server command: //cut
+[15:31:26] [Server thread/INFO]: Chlckon issued server command: //cut
+[15:31:38] [Server thread/INFO]: Chlckon issued server command: //cut
+[15:33:18] [Server thread/INFO]: Chlckon issued server command: //cut
+[15:33:24] [Server thread/INFO]: Chlckon issued server command: //cut
+[15:33:32] [Server thread/INFO]: Chlckon issued server command: //cut
+[15:56:18] [Server thread/INFO]: Chlckon lost connection: Disconnected
+[15:56:18] [Server thread/INFO]: Chlckon left the game
