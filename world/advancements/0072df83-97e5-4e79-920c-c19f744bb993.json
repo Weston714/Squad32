@@ -782,6 +782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/slabs/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_block": "2020-11-29 21:05:31 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-10-02 20:48:00 -0500"
@@ -1432,6 +1438,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2020-11-29 20:59:31 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2019-10-06 13:38:20 -0500"
@@ -1628,6 +1640,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2019-10-02 18:46:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2020-11-29 21:02:17 -0600"
     },
     "done": true
   },
@@ -2138,6 +2156,12 @@
       "has_white_dye": "2019-10-15 05:03:42 -0500"
     },
     "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass": {
+    "criteria": {
+      "has_block": "2020-11-29 20:42:51 -0600"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
@@ -3354,6 +3378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/slabs/polished_andesite_slab": {
+    "criteria": {
+      "has_block": "2020-11-29 20:58:05 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2019-10-02 18:49:26 -0500"
@@ -4204,6 +4234,12 @@
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_light_blue_wool": "2019-10-06 13:38:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/stone_brick_slab": {
+    "criteria": {
+      "has_block": "2020-11-29 21:01:15 -0600"
     },
     "done": true
   },

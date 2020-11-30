@@ -1152,6 +1152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/slabs/smooth_stone_slab": {
+    "criteria": {
+      "has_slab": "2020-11-29 21:08:20 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2019-10-08 17:31:19 -0500"
@@ -1308,6 +1314,12 @@
     },
     "done": true
   },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/smooth_stone": {
+    "criteria": {
+      "has_slab": "2020-11-29 21:08:20 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2019-09-30 22:03:49 -0500"
@@ -1455,6 +1467,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2019-10-01 17:43:55 -0500"
+    },
+    "done": true
+  },
+  "wool_to_string:recipes/building_blocks/wool_to_string/string": {
+    "criteria": {
+      "has_block": "2020-11-29 21:08:20 -0600"
     },
     "done": true
   },
@@ -2319,11 +2337,23 @@
     },
     "done": true
   },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/stone_bricks": {
+    "criteria": {
+      "has_stairs": "2020-11-29 21:08:20 -0600"
+    },
+    "done": true
+  },
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2019-11-02 22:00:52 -0500"
     },
     "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/wool": {
+    "criteria": {
+      "has_block": "2020-11-29 21:08:20 -0600"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
@@ -3000,6 +3030,12 @@
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2019-12-03 16:49:34 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/cobblestone_slab": {
+    "criteria": {
+      "has_block": "2020-11-29 21:08:20 -0600"
     },
     "done": true
   },
@@ -4014,6 +4050,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2019-11-05 18:01:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/stone_brick_slab": {
+    "criteria": {
+      "has_block": "2020-11-29 21:08:20 -0600"
     },
     "done": true
   },
