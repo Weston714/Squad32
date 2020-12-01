@@ -1,0 +1,221 @@
+[17:36:00] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\level.dat -> .\world\level.dat_old: The process cannot access the file because it is being used by another process.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_271]
+	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.server.v1_16_R3.SystemUtils$2.getAsBoolean(SourceFile:467) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:532) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:542) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:559) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:552) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:309) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldServer.save(WorldServer.java:772) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.saveChunks(MinecraftServer.java:674) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1027) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[17:36:00] [Server thread/WARN]: Failed to execute rename .\world\level.dat to .\world\level.dat_old
+[17:36:00] [Server thread/ERROR]: Failed to create backup .\world\level.dat_old, retrying 0/10
+[17:36:00] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\level.dat -> .\world\level.dat_old: The process cannot access the file because it is being used by another process.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_271]
+	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.server.v1_16_R3.SystemUtils$2.getAsBoolean(SourceFile:467) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:532) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:542) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:559) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:552) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:309) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldServer.save(WorldServer.java:772) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.saveChunks(MinecraftServer.java:674) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1027) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[17:36:00] [Server thread/WARN]: Failed to execute rename .\world\level.dat to .\world\level.dat_old
+[17:36:00] [Server thread/ERROR]: Failed to create backup .\world\level.dat_old, retrying 1/10
+[17:36:00] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\level.dat -> .\world\level.dat_old: The process cannot access the file because it is being used by another process.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_271]
+	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.server.v1_16_R3.SystemUtils$2.getAsBoolean(SourceFile:467) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:532) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:542) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:559) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:552) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:309) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldServer.save(WorldServer.java:772) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.saveChunks(MinecraftServer.java:674) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1027) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[17:36:00] [Server thread/WARN]: Failed to execute rename .\world\level.dat to .\world\level.dat_old
+[17:36:00] [Server thread/ERROR]: Failed to create backup .\world\level.dat_old, retrying 2/10
+[17:36:00] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\level.dat -> .\world\level.dat_old: The process cannot access the file because it is being used by another process.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_271]
+	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.server.v1_16_R3.SystemUtils$2.getAsBoolean(SourceFile:467) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:532) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:542) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:559) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:552) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:309) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldServer.save(WorldServer.java:772) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.saveChunks(MinecraftServer.java:674) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1027) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[17:36:00] [Server thread/WARN]: Failed to execute rename .\world\level.dat to .\world\level.dat_old
+[17:36:00] [Server thread/ERROR]: Failed to create backup .\world\level.dat_old, retrying 3/10
+[17:36:00] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\level.dat -> .\world\level.dat_old: The process cannot access the file because it is being used by another process.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_271]
+	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.server.v1_16_R3.SystemUtils$2.getAsBoolean(SourceFile:467) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:532) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:542) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:559) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:552) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:309) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldServer.save(WorldServer.java:772) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.saveChunks(MinecraftServer.java:674) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1027) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[17:36:00] [Server thread/WARN]: Failed to execute rename .\world\level.dat to .\world\level.dat_old
+[17:36:00] [Server thread/ERROR]: Failed to create backup .\world\level.dat_old, retrying 4/10
+[17:36:00] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\level.dat -> .\world\level.dat_old: The process cannot access the file because it is being used by another process.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_271]
+	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.server.v1_16_R3.SystemUtils$2.getAsBoolean(SourceFile:467) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:532) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:542) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:559) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:552) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:309) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldServer.save(WorldServer.java:772) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.saveChunks(MinecraftServer.java:674) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1027) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[17:36:00] [Server thread/WARN]: Failed to execute rename .\world\level.dat to .\world\level.dat_old
+[17:36:00] [Server thread/ERROR]: Failed to create backup .\world\level.dat_old, retrying 5/10
+[17:36:00] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\level.dat -> .\world\level.dat_old: The process cannot access the file because it is being used by another process.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_271]
+	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.server.v1_16_R3.SystemUtils$2.getAsBoolean(SourceFile:467) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:532) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:542) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:559) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:552) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:309) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldServer.save(WorldServer.java:772) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.saveChunks(MinecraftServer.java:674) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1027) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[17:36:00] [Server thread/WARN]: Failed to execute rename .\world\level.dat to .\world\level.dat_old
+[17:36:00] [Server thread/ERROR]: Failed to create backup .\world\level.dat_old, retrying 6/10
+[17:36:00] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\level.dat -> .\world\level.dat_old: The process cannot access the file because it is being used by another process.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_271]
+	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.server.v1_16_R3.SystemUtils$2.getAsBoolean(SourceFile:467) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:532) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:542) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:559) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:552) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:309) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldServer.save(WorldServer.java:772) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.saveChunks(MinecraftServer.java:674) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1027) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[17:36:00] [Server thread/WARN]: Failed to execute rename .\world\level.dat to .\world\level.dat_old
+[17:36:00] [Server thread/ERROR]: Failed to create backup .\world\level.dat_old, retrying 7/10
+[17:36:00] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\level.dat -> .\world\level.dat_old: The process cannot access the file because it is being used by another process.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_271]
+	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.server.v1_16_R3.SystemUtils$2.getAsBoolean(SourceFile:467) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:532) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:542) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:559) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:552) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:309) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldServer.save(WorldServer.java:772) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.saveChunks(MinecraftServer.java:674) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1027) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[17:36:00] [Server thread/WARN]: Failed to execute rename .\world\level.dat to .\world\level.dat_old
+[17:36:00] [Server thread/ERROR]: Failed to create backup .\world\level.dat_old, retrying 8/10
+[17:36:00] [Server thread/ERROR]: Failed to rename
+java.nio.file.FileSystemException: .\world\level.dat -> .\world\level.dat_old: The process cannot access the file because it is being used by another process.
+
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileCopy.move(Unknown Source) ~[?:1.8.0_271]
+	at sun.nio.fs.WindowsFileSystemProvider.move(Unknown Source) ~[?:1.8.0_271]
+	at java.nio.file.Files.move(Unknown Source) ~[?:1.8.0_271]
+	at net.minecraft.server.v1_16_R3.SystemUtils$2.getAsBoolean(SourceFile:467) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:532) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:542) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:559) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.SystemUtils.a(SourceFile:552) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.Convertable$ConversionSession.a(Convertable.java:309) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.WorldServer.save(WorldServer.java:772) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.saveChunks(MinecraftServer.java:674) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1027) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:846) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[17:36:00] [Server thread/WARN]: Failed to execute rename .\world\level.dat to .\world\level.dat_old
+[17:36:00] [Server thread/ERROR]: Failed to create backup .\world\level.dat_old, retrying 9/10
+[17:36:00] [Server thread/ERROR]: Failed to create backup .\world\level.dat_old, aborting, progress might be lost
